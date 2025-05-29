@@ -1,0 +1,11 @@
+public class main {
+    public static void main(String[] args) {
+int i = 1;
+do { 
+    System.out.println("Purvi");
+    i++;
+} while (i<=7);
+        
+    }
+    
+}
