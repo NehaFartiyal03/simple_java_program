@@ -1,1 +1,1 @@
-# simple_java_program
+# Simple/Easy_java_program
